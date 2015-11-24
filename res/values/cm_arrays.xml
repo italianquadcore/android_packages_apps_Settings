@@ -274,6 +274,8 @@
         <item>airplane</item>
         <item>users</item>
         <item>bugreport</item>
+        <item>settings</item>
+        <item>silent</item>
     </string-array>
 
     <!-- Gamma calibration descriptors, deliberately empty as string values populated via
